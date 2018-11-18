@@ -1,5 +1,4 @@
- package com.java.dsprogram;
-
+ 
 public class TryCatchBlock {
 public static int s(){
 	try{
